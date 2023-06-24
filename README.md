@@ -22,8 +22,8 @@ Overview of the method :
 
 9. Visualize the explanations: Present the explanations in a visually appealing and intuitive format. This could involve overlaying heatmaps on the original image to highlight the important regions or generating textual explanations describing the contributing features.
 
-### I have implemented the method step by step and you can go throught the Lime_Images.py file to understand it deeply.
+### - I have implemented the method step by step and you can go throught the Lime_Images.py file to understand it deeply.
 
-### Please refer to example.ipynb file for step by step implementation on custom images
+### - Please refer to example.ipynb file for step by step implementation on custom images
 
 
