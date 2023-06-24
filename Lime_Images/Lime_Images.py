@@ -116,7 +116,7 @@ def get_superpixels(segments_of_images, superpixels_values):
 
 
 # Geting perturbed images for each image from superpixels made for each image
-def make_pertubed_imgs(original_imgs, number_of_perturbed_imgs=300, superpixels_values=None):
+def make_pertubed_imgs(original_imgs, superpixels_values=None, number_of_perturbed_imgs=300):
     perturbed_imgs = [None] * (original_imgs.shape[0])
     index_perturbed_imgs = [None] * (original_imgs.shape[0])
 
